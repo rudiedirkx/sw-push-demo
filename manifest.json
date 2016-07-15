@@ -1,0 +1,11 @@
+{
+  "name": "SW Push Demo",
+  "short_name": "SW Push Demo",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "gcm_sender_id": "974366832323",
+
+  "api_key": "AIzaSyDHT2yd2D_XFzy_CE3CptY2k01CELv4NFs",
+  "project_id": "sw-push-demo-1373",
+  "project_number": "974366832323"
+}
